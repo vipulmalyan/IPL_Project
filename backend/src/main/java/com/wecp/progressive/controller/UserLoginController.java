@@ -9,7 +9,7 @@ public class UserLoginController {
         return null;
     }
 
-    public ResponseEntity loginUser(LoginRequest loginRequest) {
+    public ResponseEntity<User> loginUser(LoginRequest loginRequest) {
         return null;
     }
 }
