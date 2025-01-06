@@ -29,7 +29,4 @@ public class DatabaseConnectionManager {
             return DriverManager.getConnection(url,user,password);
         
         } 
-    
-    
-
 }
